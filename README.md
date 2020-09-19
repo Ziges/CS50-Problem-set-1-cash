@@ -1,5 +1,5 @@
 # CS50-Problem-set-1-cash
-My solution(s) to pset1 - Cash - using "greedy" algorithms which determine least amount of coins given back as change. 
+My solution(s) to pset1 - Cash - defining "greedy" algorithms which determine least amount of coins given back as change. 
 
 Nice introductory exercise to C-lang, loops and conditionals.
 
